@@ -1,3 +1,15 @@
-p {
+#one {
 background-color: red;
+}
+
+.one {
+    background-color: yellow;
+    border: 2px dotted black;
+}
+
+#position {
+    background-color: rgb(235, 100, 11);
+    float: right; 
+    position: relative;
+    font-size: 50px;
 }
